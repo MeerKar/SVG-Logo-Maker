@@ -29,6 +29,10 @@ Walk through is given below:
 and the logo generated as follows:
 
 <img width="1051" alt="image" src="https://github.com/MeerKar/SVG-Logo-Maker/assets/116701851/88a89ea8-4b4d-437c-a9f4-870f902ca251">
+<img width="600" alt="image" src="https://github.com/MeerKar/SVG-Logo-Maker/assets/116701851/3c46811b-e3e8-42a7-bebc-207cce1052c6">
+<img width="934" alt="image" src="https://github.com/MeerKar/SVG-Logo-Maker/assets/116701851/c33ff89b-1316-4ba5-a53d-44301d83747f">
+
+
 
 Here are the sample code snippet:
 
